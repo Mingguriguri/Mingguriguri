@@ -1,8 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Mingguriguri&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  
-####  :wave: Welcome my github profile !
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFCF0D&height=150&section=header&text=Mingguriguri&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)     
 ![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&theme=radical)
@@ -38,3 +36,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingguriguri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrong925)](https://solved.ac/merrong925)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFCF0D&height=150&section=footer" />
