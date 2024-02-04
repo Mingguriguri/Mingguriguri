@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFCF0D&height=150&section=header&text=Mingguriguri&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFCF0D&height=200&section=header&text=Mingguriguri&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)     
 ![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&theme=radical)
