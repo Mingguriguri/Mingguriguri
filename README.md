@@ -8,7 +8,7 @@
  <br/>
  <br/>
  
-## :pencil2: Study log 💻
+### :pencil2: Study log 💻
 <div>
  <a href="https://velog.io/@miiingirok/posts">
       <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
@@ -18,80 +18,101 @@
  </a>
 </div><br>
 
-## :clipboard: Once I've Used 
+### :clipboard: Once I've Used 
+
+<table>
+	<thead>
+   <th><strong> Tech Stack </strong></th>
+   <th><strong>Strong</strong></th>
+   <th><strong>Learning</strong></th>
+	</thead>
+	<tbody>
+  	<tr>
+    		<td><p><strong> OS </strong></p></td>
+    	<td><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/windows10-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> </td>
+    <td>- </td>
+  	</tr>
   
- <br/>
-  <!-- OS -->
-<p><strong> OS </strong></p>
-<div>
- <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
- <img src="https://img.shields.io/badge/windows10-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
-</div>
-  <!--FrontEnd-->
-<p><strong>Frontend</strong></p>
-<div>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"><br>
-</div>
- <!--BaekEnd-->
-<p><strong>Backend</strong></p>
-<div>
- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
- <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"><br>
-</div>
- <!-- Datatbase -->
-<p><strong>Dtatbase</strong></p>
-<div>
-<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
- <!--<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> -->
-</div>
+<tr>
+     <td><p><strong> Frontend </strong></p></td>
+    		<td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
+      </td>
+ <td>
+   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+ </td>
+  	</tr>
 
- <!-- Infra -->
-<p><strong>Infra </strong></p>
-<div>
- <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
- <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
- <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</div>
+  <tr>
+     <td><p><strong> Backend </strong></p></td>
+    		<td>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+      </td>
+     <td>
+       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+       <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+      </td>
+  	</tr>
+    <tr>
+     <td><p><strong> Database </strong></p></td>
+     <td>
+      <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+     </td>
+    		<td>
+       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+        <!--<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> -->
+      </td>
+  	</tr>
+  <tr>
+     <td><p><strong> Development Tools </strong></p></td>
+    		<td>
+       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+       <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> 
+      </td>
+  	</tr>
+   <tr>
+     <td><p><strong> Infra </strong></p></td>
+    <td>-</td>
+    		<td>
+        <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+        <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+        <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+      </td>
+  	</tr>
+  <tr>
+     <td><p><strong>Version Control</strong></p></td>
+    		<td>
+       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white">
+      </td>
+       <td>
+       -
+      </td>
+  	</tr>
+  <tr>
+     <td><p><strong>Communication</strong></p></td>
+    		<td><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+          <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+          <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"><br/>
+          <img src="https://img.shields.io/badge/GoogleMeet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white">
+          <img src="https://img.shields.io/badge/GoogleDocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
+          <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
+      </td>
+   <td>-
+      </td>
+  	</tr>
+</tbody>
+</table>
 
- <!-- Development Tools -->
-<p><strong>Development Tools </strong></p>
-<div>
- <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-</div>
-<br/>
- <!-- Version Control -->
-<p><strong>Version Control </strong></p>
-<div>
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"
-</div>
-<br/>
- <!-- Communication -->
-<p><strong>Communication </strong></p>
-<div>
- <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"><br/>
-<img src="https://img.shields.io/badge/GoogleMeet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white">
-<img src="https://img.shields.io/badge/GoogleDocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
-</div>
-<br/>
- <!--([뱃지 커스텀 사이트 : https://shields.io/category/coverage](https://simpleicons.org/))-->
  
-
-
+ <!--([뱃지 커스텀 사이트 : https://shields.io/category/coverage](https://simpleicons.org/))-->
   
-## 📞 Contact 📞
+### 📞 Contact 📞
 <div>
  <a href="mailto:merrong925@gmail.com">
   <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
