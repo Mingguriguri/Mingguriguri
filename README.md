@@ -95,14 +95,13 @@
   	</tr>
   <tr>
      <td><p><strong>Communication</strong></p></td>
-    		<td><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+	  <td colspan="2"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
           <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-          <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"><br/>
+          <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
           <img src="https://img.shields.io/badge/GoogleMeet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white">
           <img src="https://img.shields.io/badge/GoogleDocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
           <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
-      </td>
-   <td>-
+		  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> 
       </td>
   	</tr>
 </tbody>
@@ -116,7 +115,7 @@
 <div>
  <a href="mailto:merrong925@gmail.com">
   <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
- </a>
+ </a> 
   <a href="https://www.instagram.com/boksunee__/">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  </a>
