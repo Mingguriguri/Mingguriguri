@@ -105,7 +105,7 @@
           <img src="https://img.shields.io/badge/GoogleMeet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white">
           <img src="https://img.shields.io/badge/GoogleDocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
           <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
-		  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> 
+		<!--<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> -->
       </td>
   	</tr>
 </tbody>
