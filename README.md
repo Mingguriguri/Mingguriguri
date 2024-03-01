@@ -71,10 +71,10 @@
   <tr>
      <td><p><strong> Development Tools </strong></p></td>
     		<td>
-       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
        <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> 
       </td>
-	  <td>-</td>
+	  <td>       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+</td>
   	</tr>
    <tr>
      <td><p><strong> Infra </strong></p></td>
