@@ -19,7 +19,14 @@
  </a>
 </div><br>
 
-### :clipboard: Once I've Used 
+### :clipboard: Once I've Used
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,java,spring,vscode,eclipse,mysql,sqlite,figma,notion&theme=light&perline=6" />
+  </a>
+</p>
+
+<!--
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <br/>
@@ -32,6 +39,7 @@
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">   
+-->
 <!--
 <table>
 	<thead>
