@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffd500&height=200&section=header&text=Mingguriguri&fontColor=403d39&fontSize=70&animation=fadeIn&fontAlignY=35)
 <!--색조합-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=400&pause=1000&color=1A1600&random=false&width=435&lines=Always+learning+new+things" alt="Typing SVG" /></a>
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=400&pause=1000&color=1A1600&random=false&width=435&lines=Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingguriguri&count_bg=%23FFCF00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -10,7 +12,7 @@
  <br/>
  <br/>
  
-### :pencil2: Study log 💻
+<h3>:pencil2: Study log 💻</h3> 
 <div>
  <a href="https://velog.io/@miiingirok/posts">
       <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
@@ -20,7 +22,7 @@
  </a>
 </div><br>
 
-### :clipboard: Once I've Used
+<h3> :clipboard: Once I've Used</h3>
 <p align="center">
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,java,spring,vscode,eclipse,mysql,sqlite,figma,notion&theme=light&perline=6" />
@@ -136,7 +138,7 @@
  
  <!--([뱃지 커스텀 사이트 : https://shields.io/category/coverage](https://simpleicons.org/))-->
   
-### 📞 Contact 📞
+<h3>📞 Contact 📞</h3>
 <div>
  <a href="mailto:merrong925@gmail.com">
   <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
