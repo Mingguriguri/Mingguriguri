@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffd500&height=200&section=header&text=Mingguriguri&fontColor=403d39&fontSize=70&animation=fadeIn&fontAlignY=35)
 <!--색조합-->
-<!--https://coolors.co/palette/003049-d62828-f77f00-fcbf49-eae2b7-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=400&pause=1000&color=1A1600&random=false&width=435&lines=Always+learning+new+things" alt="Typing SVG" /></a>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingguriguri&count_bg=%23FFCF00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&theme=radical)
@@ -140,9 +141,6 @@
  <a href="mailto:merrong925@gmail.com">
   <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
  </a> 
-  <a href="https://www.instagram.com/boksunee__/">
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
- </a>
 
 </div>
 
