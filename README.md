@@ -2,13 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffd500&height=200&section=header&text=Mingguriguri&fontColor=403d39&fontSize=70&animation=fadeIn&fontAlignY=35)
 <!--색조합-->
-<p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=400&pause=1000&color=1A1600&random=false&width=435&lines=Always+learning+new+things+..." alt="Typing SVG" />
-</p>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingguriguri&count_bg=%23FFCF00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
- <br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=7000&pause=1500&color=F7A743&center=true&vCenter=true&random=false&width=435&lines=Always+learning+new+things+..." alt="Typing SVG" /></a>
 
 <h3>:pencil2: Study log 💻</h3> 
 <div>
@@ -135,7 +131,7 @@
 
  
  <!--([뱃지 커스텀 사이트 : https://shields.io/category/coverage](https://simpleicons.org/))-->
-  
+
 <h3>📞 Contact 📞</h3>
 <div>
  <a href="mailto:merrong925@gmail.com">
@@ -144,11 +140,16 @@
 
 </div>
 
----
+<hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingguriguri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+	<summary><b>git stats🌱</b></summary>
+![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingguriguri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrong925)](https://solved.ac/merrong925)
-![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&theme=radical)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd500&height=150&section=footer" />
