@@ -141,16 +141,17 @@
 <br><br>
 
 
-<details>
-	<summary><b>git stats🌱</b></summary><br>
+<details align="left" style="margin-left:20px">
+	<summary><b>🌱git stats</b></summary><br>
 	
-![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingguriguri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+	
+![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&hide=contribs&theme=buefy&&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingguriguri&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
-<details>
-	<summary><b>algorithm stats🌱</b></summary><br>
+<details align="left">
+	<summary><b>⛳algorithm stats</b></summary><br>
 	
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrong925)](https://solved.ac/merrong925)
