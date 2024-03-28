@@ -4,8 +4,7 @@
 <!--색조합-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingguriguri&count_bg=%23FFCF00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=7000&pause=1500&color=F7A743&center=true&vCenter=true&random=false&width=435&lines=Always+learning+new+things+..." alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=15&duration=8000&pause=1500&color=F7A743&center=true&vCenter=true&random=false&width=435&height=40&lines=Always+learning+new+things.." alt="Typing SVG" /></a>
 <h3>:pencil2: Study log 💻</h3> 
 <div>
  <a href="https://velog.io/@miiingirok/posts">
