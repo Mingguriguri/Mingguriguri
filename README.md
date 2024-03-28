@@ -138,19 +138,26 @@
  </a> 
 
 </div>
-
-<hr>
+<br><br>
 
 
 <details>
-	<summary><b>git stats🌱</b></summary>
+	<summary><b>git stats🌱</b></summary><br>
 	
 ![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingguriguri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
+<details>
+	<summary><b>algorithm stats🌱</b></summary><br>
+	
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrong925)](https://solved.ac/merrong925)
+![LeetCode Stats](https://leetcard.jacoblin.cool/minggu_123?theme=light&font=ABeeZee)
+
+</details>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd500&height=100&section=footer" />
