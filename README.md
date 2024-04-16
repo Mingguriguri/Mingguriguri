@@ -29,7 +29,7 @@
 	<div>
 	 <a href="mailto:merrong925@gachon.ac.kr">
 	  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-	 </a> 
+	 </a> merrong925@gachon.ac.kr
 	</div>
 </details>
 <details align="left" style="margin-left:20px">
@@ -49,7 +49,5 @@
 <img src="https://leetcard.jacoblin.cool/minggu_123?theme=light&font=ABeeZee" width="420">
 
 </details>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd500&height=100&section=footer" />
