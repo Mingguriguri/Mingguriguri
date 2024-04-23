@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingguriguri&count_bg=%23FFCF00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=15&duration=8000&pause=1500&color=F7A743&center=true&vCenter=true&random=false&width=435&height=40&lines=Always+learning+new+things.." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=15&duration=8000&pause=3000&color=F7A743&center=true&vCenter=true&random=false&width=435&height=40&lines=Always+learning+new+things.." alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=15&duration=1000&pause=5000&color=0A66C2&center=true&vCenter=true&random=false&width=100&height=20&lines=Follow+me!" alt="Typing SVG" /></a>
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/)
