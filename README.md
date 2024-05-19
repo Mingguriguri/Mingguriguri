@@ -33,7 +33,8 @@
 	<div>
 	 <a href="mailto:merrong925@gachon.ac.kr">
 	  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-	 </a> merrong925@gachon.ac.kr
+	 </a> 
+		<merrong925@gachon.ac.kr/>
 	</div>
 </details>
 <details align="left" style="margin-left:20px">
