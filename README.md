@@ -28,6 +28,10 @@
  
  <!--([뱃지 커스텀 사이트 : https://shields.io/category/coverage](https://simpleicons.org/))-->
 
+![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&hide=contribs&theme=buefy&count_private=true&line_height=24)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingguriguri&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <details align="left">
 	<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>📞 Contact </b></summary><br>
 	<div>
