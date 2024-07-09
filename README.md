@@ -33,7 +33,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mingguriguri&theme=buefy&hide_border=true&border_radius=5&card_width=600&card_height=150" alt="GitHub Streak" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mingguriguri&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mingguriguri&theme=rogue&bg_color=ffffff&color=765BD9&line=8973D9&point=2b3137&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details align="left">
 	<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>📞 Contact </b></summary><br>
