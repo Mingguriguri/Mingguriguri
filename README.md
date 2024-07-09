@@ -31,6 +31,9 @@
 ![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&hide=contribs&theme=buefy&count_private=true&line_height=24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingguriguri&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mingguriguri&theme=buefy&hide_border=true&border_radius=5&card_width=600&card_height=150" alt="GitHub Streak" /></a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mingguriguri&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details align="left">
 	<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>📞 Contact </b></summary><br>
