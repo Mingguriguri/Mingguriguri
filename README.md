@@ -11,11 +11,8 @@
 
 <h3>:pencil2: Study log 💻</h3> 
 <div>
- <a href="https://velog.io/@miiingirok/posts">
-      <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
- </a>
- <a href="https://minsllogg.tistory.com/">
-      <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
+ <a href="https://minjeong.oopy.io/">
+      <img alt="Static Badge" src="https://img.shields.io/badge/minjeong's_blog-green%3Fstyle%3Dflat">
  </a>
 </div><br>
 
