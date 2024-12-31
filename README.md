@@ -2,7 +2,17 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffd500&height=150&section=header&text=Mingguriguri&fontColor=403d39&fontSize=40&animation=fadeIn&fontAlignY=30)
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Mingguriguri/count.svg" />
+</p>
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=4000&pause=1000&color=F7A743&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Always+learning+new+things;Let's+build+amazing+projects!;Follow+me+for+more!">
+</a>
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingguriguri&count_bg=%23FFCF00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=15&duration=8000&pause=3000&color=F7A743&center=true&vCenter=true&random=false&width=435&height=40&lines=Always+learning+new+things.." alt="Typing SVG" /></a>
 
@@ -18,10 +28,11 @@
 
 <h3> :clipboard: Once I've Used</h3>
 <p align="center">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,java,spring,vscode,eclipse,mysql,sqlite,figma,notion&theme=light&perline=6" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,java,spring,vscode,eclipse,aws,mysql,redis,sqlite,figma,notion,docker,git,flutter&theme=light&perline=6">
   </a>
 </p>
+
  
  <!--([뱃지 커스텀 사이트 : https://shields.io/category/coverage](https://simpleicons.org/))-->
 
