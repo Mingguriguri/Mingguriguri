@@ -2,10 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffd500&height=150&section=header&text=Mingguriguri&fontColor=403d39&fontSize=40&animation=fadeIn&fontAlignY=30)
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Mingguriguri/count.svg" />
-</p>
-
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=4000&pause=1000&color=F7A743&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Always+learning+new+things;Let's+build+amazing+projects!;Follow+me+for+more!">
 </a>
@@ -13,13 +9,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingguriguri&count_bg=%23FFCF00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=15&duration=8000&pause=3000&color=F7A743&center=true&vCenter=true&random=false&width=435&height=40&lines=Always+learning+new+things.." alt="Typing SVG" /></a>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=15&duration=1000&pause=5000&color=0A66C2&center=true&vCenter=true&random=false&width=100&height=20&lines=Follow+me!" alt="Typing SVG" /></a>
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/)
 
-<h3>:pencil2: Study log 💻</h3> 
+<h3>:pencil2: Blog 💻</h3> 
 <div>
  <a href="https://minjeong.oopy.io/">
       <img alt="Static Badge" src="https://img.shields.io/badge/minjeong's_blog-green%3Fstyle%3Dflat">
