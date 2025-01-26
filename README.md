@@ -15,7 +15,22 @@
     height="120"
   />
 </a>
-  
+
+
+<!-- TODO 
+<!--About Me
+🏫 I'm studying at Konkuk Univ. CSE 2022.03 - ing
+
+
+EXPERIENCE
+Depromeet 14th Server 2023.11 - 2024.02
+10th 9oormthon in JEJU Server 2024.05
+Yapp 25th Server 2024.11 - 2025.03
+
+Awards
+Depromeet 14th 프로젝트 대상 2024.02.17
+10th 9oormthon in JEJU 프로젝트 우수상 (구름 기업상) 2024.05.24-->
+
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingguriguri&count_bg=%23FFCF00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
