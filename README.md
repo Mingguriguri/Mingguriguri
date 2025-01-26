@@ -93,7 +93,7 @@ Depromeet 14th 프로젝트 대상 2024.02.17
 <img
   src="https://render.gitanimals.org/farms/Mingguriguri"
   width="600"
-  height="400"
+  height="300"
 />
 </a>
 
