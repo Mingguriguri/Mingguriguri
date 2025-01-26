@@ -41,8 +41,6 @@
 ![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&hide=contribs&theme=buefy&count_private=true&line_height=24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingguriguri&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mingguriguri&theme=buefy&hide_border=true&border_radius=5&card_width=600&card_height=150" alt="GitHub Streak" /></a>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mingguriguri&theme=rogue&bg_color=ffffff&color=765BD9&line=8973D9&point=2b3137&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details align="left">
@@ -59,6 +57,7 @@
 	
 	
 ![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&hide=contribs&theme=buefy&count_private=true&line_height=24)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingguriguri&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
@@ -71,5 +70,9 @@
 <img src="https://leetcard.jacoblin.cool/minggu_123?theme=light&font=ABeeZee" width="420">
 
 </details>
+<!-- 펫 -->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{mingguriguri}?pet-id=1" width="1000" height="120"/>
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd500&height=100&section=footer" />
