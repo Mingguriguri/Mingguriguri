@@ -7,10 +7,14 @@
 </a>
 
 <!-- 펫 -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{mingguriguri}?pet-id=1" width="1000" height="120"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mingguriguri&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Mingguriguri"
+    width="1000"
+    height="120"
+  />
 </a>
-
+  
 <!-- 농장 -->
 <!-- <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{mingguriguri}"/>
