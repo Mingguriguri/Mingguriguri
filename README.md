@@ -1,11 +1,20 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffd500&height=150&section=header&text=Mingguriguri&fontColor=403d39&fontSize=40&animation=fadeIn&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffd500&height=150&section=header&text=MinJeong💭&fontColor=403d39&fontSize=40&animation=fadeIn&fontAlignY=30)
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=4000&pause=1000&color=F7A743&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Always+learning+new+things;Let's+build+amazing+projects!;Follow+me+for+more!">
 </a>
 
+<!-- 펫 -->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{mingguriguri}?pet-id=1" width="1000" height="120"/>
+</a>
+
+<!-- 농장 -->
+<!-- <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{mingguriguri}"/>
+</a>-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingguriguri&count_bg=%23FFCF00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
