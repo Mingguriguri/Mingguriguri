@@ -14,12 +14,8 @@
     height="120"
   />
 </a>
-  
-<!-- 농장 -->
-<!-- <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{mingguriguri}"/>
-</a>-->
 
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingguriguri&count_bg=%23FFCF00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=15&duration=1000&pause=5000&color=0A66C2&center=true&vCenter=true&random=false&width=100&height=20&lines=Follow+me!" alt="Typing SVG" /></a>
@@ -74,9 +70,15 @@
 <img src="https://leetcard.jacoblin.cool/minggu_123?theme=light&font=ABeeZee" width="420">
 
 </details>
-<!-- 펫 -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{mingguriguri}?pet-id=1" width="1000" height="120"/>
+
+
+<!-- 농장 -->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mingguriguri&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Mingguriguri"
+  width="600"
+  height="400"
+/>
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd500&height=100&section=footer" />
