@@ -7,14 +7,15 @@
 </a>
 
 <!-- 펫 -->
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mingguriguri&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/Mingguriguri"
+    src="https://render.gitanimals.org/lines/Mingguriguri?pet-id=671282203269021010"
     width="1000"
     height="120"
   />
 </a>
-
+  
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingguriguri&count_bg=%23FFCF00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
