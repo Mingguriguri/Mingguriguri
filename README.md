@@ -1,24 +1,14 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=4000&pause=1000&color=F7A743&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Always+learning+new+things;Let's+build+amazing+projects!;Follow+me+for+more!" alt="Typing SVG" />
   </a>
-</div>
+</div> -->
+
+
 
 ## 👋  About Me
-<div align="left">
-<!-- 뱃지 사이트 : https://badgesgenerator.com/ -->
-	
-<!--GITHUB HITS-->
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D7BFFF&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8B&edge_flat=false"/></a>
-
-<a href="https://minjeong.oopy.io/"><img src="https://img.shields.io/badge/BLOG-click!-White?labelColor=CDC1FF&style=social&logo=Notion&logoColor=black&link=https://minjeong.oopy.io/" alt="BLOG" /></a>
-
-<a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/"><img src="https://img.shields.io/badge/Linked%20In-click!-White?labelColor=CDC1FF&style=social&logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/" alt="Linked In" /></a>
-
-</div>
-
-안녕하세요🙌🏻 현재 백엔드 개발자를 희망하고 있는 김민정입니다.
+안녕하세요! 🙌🏻 백엔드 개발자를 꿈꾸며 꾸준히 성장 중인 김민정입니다.
 
 ```
 💻 새로운 기술을 배우는 것을 즐기며, 이를 블로그와 깃허브에 기록으로 남기는 습관을 가지고 있습니다.
@@ -26,20 +16,16 @@
 📚 모르는 것은 부끄러워하지 않고 적극적으로 배우며, 작은 성과도 기록하고 공유하는 습관을 지향합니다.
 ✍️ 유지보수가 쉽고 가독성이 높은 코드를 작성하는 것을 목표로 하며, 코드의 명확성과 이해도를 중요하게 생각합니다.
 ```
-- Frontend Developer Intern @ Gingiber Labs, INC (2023.03 ~ 2024.04)
-- Researcher @ iNES Lab (2022.09 ~ 2024.07)
-- CS Student @ Gachon Univ. (2021.03 ~ 2025.02)
-- Always exploring new technologies and improving my skills.
 
-
-<!-- gitAnimal 펫 -->
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mingguriguri&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Mingguriguri?pet-id=671282203269021010"
-    width="1000"
-    height="120"
-  />
+<!-- gitAnimal 농장 -->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mingguriguri&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Mingguriguri"
+  width="1000"
+  height="400"
+/>
 </a>
+
 
 ## 💻 Projects
 - **Golbang** (2024.03 ~ 진행 중):
@@ -61,20 +47,22 @@
 <h3> :clipboard: Once I've Used</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,java,spring,vscode,eclipse,aws,mysql,redis,sqlite,figma,notion,docker,git,flutter&theme=light&perline=10">
+    <img src="https://skillicons.dev/icons?i=py,django,java,spring,vscode,eclipse,aws,mysql,redis,sqlite,figma,notion,docker,git,flutter&theme=light&perline=8">
   </a>
 </p>
  
- <!--([뱃지 커스텀 사이트 : https://shields.io/category/coverage](https://simpleicons.org/))-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mingguriguri&theme=rogue&bg_color=ffffff&color=765BD9&line=8973D9&point=2b3137&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+<!--([뱃지 커스텀 사이트 : https://shields.io/category/coverage](https://simpleicons.org/))-->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mingguriguri&theme=merko&bg_color=ffffff&color=0a0f0b&line=abd200&point=abd200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details align="left" style="margin-left:20px">
 	<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>🌱git stats</b></summary><br>
 	
 	
-![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&hide=contribs&theme=buefy&count_private=true&line_height=24)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingguriguri&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&hide=contribs&theme=merko&bg_color=ffffff&count_private=true&line_height=24)
 
 </details>
 
@@ -87,13 +75,23 @@
 
 </details>
 
+## 🔗 Link
+<div align="center">
+<!-- 뱃지 사이트 : https://badgesgenerator.com/ -->
 
-<!-- gitAnimal 농장 -->
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mingguriguri&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Mingguriguri"
-  width="1000"
-  height="300"
-/>
+<a href="https://minjeong.oopy.io/"><img src="https://img.shields.io/badge/BLOG-click!-White?labelColor=CDC1FF&style=social&logo=Notion&logoColor=black&link=https://minjeong.oopy.io/" alt="BLOG" /></a>
+
+<a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/"><img src="https://img.shields.io/badge/Linked%20In-click!-White?labelColor=CDC1FF&style=social&logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/" alt="Linked In" /></a>
+
+</div>
+
+<!-- gitAnimal 펫 -->
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mingguriguri&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Mingguriguri?pet-id=671282203269021010"
+    width="1000"
+    height="60"
+  />
 </a>
+
 
