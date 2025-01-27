@@ -6,13 +6,16 @@
 
 ## 👋  About Me
 <div align="left">
-   <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
+<!-- 뱃지 사이트 : https://badgesgenerator.com/ -->
+	
+<!--GITHUB HITS-->
 
-  <a href="https://minjeong.oopy.io/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/minjeong's_blog-green%3Fstyle%3Dflat" />
-  </a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D7BFFF&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8B&edge_flat=false"/></a>
+
+<a href="https://minjeong.oopy.io/"><img src="https://img.shields.io/badge/BLOG-click!-White?labelColor=CDC1FF&style=social&logo=Notion&logoColor=black&link=https://minjeong.oopy.io/" alt="BLOG" /></a>
+
+<a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/"><img src="https://img.shields.io/badge/Linked%20In-click!-White?labelColor=CDC1FF&style=social&logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/" alt="Linked In" /></a>
+
 </div>
 
 안녕하세요🙌🏻 현재 백엔드 개발자를 희망하고 있는 김민정입니다.
@@ -84,7 +87,6 @@
 
 </details>
 
-## 
 
 <!-- gitAnimal 농장 -->
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mingguriguri&utm_content=farm">
@@ -95,8 +97,3 @@
 />
 </a>
 
-<div align="right">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingguriguri&count_bg=%23FFCF00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false" alt="GitHub Hits" />
-  </a>
-</div>
