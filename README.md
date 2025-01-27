@@ -65,9 +65,12 @@
 
 <details align="left">
 	<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>⛳algorithm stats</b></summary><br>
+	
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrong925)](https://solved.ac/merrong925)
+
 <img src="https://leetcard.jacoblin.cool/minggu_123?theme=light&font=ABeeZee" width="420"> 
+	
 </details>
 
 ## 🔗 Links
