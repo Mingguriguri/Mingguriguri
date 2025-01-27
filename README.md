@@ -4,8 +4,6 @@
   </a>
 </div> -->
 
-
-
 ## 👋  About Me
 
 안녕하세요! 🙌🏻 백엔드 개발자를 꿈꾸며 꾸준히 성장 중인 김민정입니다.
@@ -45,6 +43,7 @@
   - Django, AWS EC2, Docker를 활용한 서버 배포 및 운영.
 
 ## 📋 Once I've Used
+<!-- 스킬 아이콘 --> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,java,spring,vscode,eclipse,aws,mysql,redis,sqlite,figma,notion,docker,git,flutter&theme=light&perline=8">
@@ -52,11 +51,16 @@
 </p>
  
 <!--([뱃지 커스텀 사이트 : https://shields.io/category/coverage](https://simpleicons.org/))-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mingguriguri&theme=merko&bg_color=ffffff&color=0a0f0b&line=abd200&point=abd200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Contribution Graph --> 
+<!-- merko -->
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mingguriguri&theme=merko&bg_color=ffffffff&color=0a0f0b&line=abd200&point=abd200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mingguriguri&theme=merko&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details align="left" style="margin-left:20px">
-	<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>🌱git stats</b></summary><br>	
-![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&hide=contribs&theme=merko&bg_color=ffffff&count_private=true&line_height=24)
+	<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>🌱git stats</b></summary><br>
+	
+![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&hide=contribs&theme=merko&bg_color=000000&count_private=true&line_height=24)
+	
 </details>
 
 <details align="left">
