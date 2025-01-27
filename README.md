@@ -44,45 +44,35 @@
   - 연구 성과 및 논문 정보 공유를 위한 웹페이지 구축.
   - Django, AWS EC2, Docker를 활용한 서버 배포 및 운영.
 
-<h3> :clipboard: Once I've Used</h3>
+## 📋 Once I've Used
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,java,spring,vscode,eclipse,aws,mysql,redis,sqlite,figma,notion,docker,git,flutter&theme=light&perline=8">
   </a>
 </p>
  
-
-
-
-
 <!--([뱃지 커스텀 사이트 : https://shields.io/category/coverage](https://simpleicons.org/))-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mingguriguri&theme=merko&bg_color=ffffff&color=0a0f0b&line=abd200&point=abd200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details align="left" style="margin-left:20px">
-	<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>🌱git stats</b></summary><br>
-	
-	
+	<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>🌱git stats</b></summary><br>	
 ![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingguriguri&show_icons=true&hide=contribs&theme=merko&bg_color=ffffff&count_private=true&line_height=24)
-
 </details>
 
 <details align="left">
 	<summary>&nbsp;&nbsp;&nbsp;&nbsp;<b>⛳algorithm stats</b></summary><br>
-	
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=merrong925)](https://solved.ac/merrong925)
-<img src="https://leetcard.jacoblin.cool/minggu_123?theme=light&font=ABeeZee" width="420">
-
+<img src="https://leetcard.jacoblin.cool/minggu_123?theme=light&font=ABeeZee" width="420"> 
 </details>
 
-## 🔗 Link
+## 🔗 Links
 <div align="center">
 <!-- 뱃지 사이트 : https://badgesgenerator.com/ -->
-
-<a href="https://minjeong.oopy.io/"><img src="https://img.shields.io/badge/BLOG-click!-White?labelColor=CDC1FF&style=social&logo=Notion&logoColor=black&link=https://minjeong.oopy.io/" alt="BLOG" /></a>
-
-<a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/"><img src="https://img.shields.io/badge/Linked%20In-click!-White?labelColor=CDC1FF&style=social&logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/" alt="Linked In" /></a>
-
+  <a href="https://minjeong.oopy.io/"><img src="https://img.shields.io/badge/BLOG-click!-White?labelColor=CDC1FF&style=social&logo=Notion&logoColor=black&link=https://minjeong.oopy.io/" alt="BLOG" /></a>
+  
+  <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/"><img src="https://img.shields.io/badge/Linked%20In-click!-White?labelColor=CDC1FF&style=social&logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/" alt="Linked In" /></a>
+	
 </div>
 
 <!-- gitAnimal 펫 -->
@@ -90,8 +80,6 @@
   <img
     src="https://render.gitanimals.org/lines/Mingguriguri?pet-id=671282203269021010"
     width="1000"
-    height="60"
+    height="120"
   />
 </a>
-
-
