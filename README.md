@@ -85,10 +85,31 @@
 </div>
 
 <!-- gitAnimal 펫 -->
+
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mingguriguri&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/Mingguriguri?pet-id=671282203269021010"
-    width="1000"
+    src="https://render.gitanimals.org/lines/Mingguriguri?pet-id=671288581224146498"
+    width="300"
     height="120"
   />
 </a>
+  
+  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mingguriguri&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Mingguriguri?pet-id=671282203269021010"
+    width="300"
+    height="120"
+  />
+</a>
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mingguriguri&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Mingguriguri?pet-id=671287225683807395"
+    width="300"
+    height="120"
+  />
+</a>
+  
