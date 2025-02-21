@@ -54,7 +54,6 @@
  
 <!--([뱃지 커스텀 사이트 : https://shields.io/category/coverage](https://simpleicons.org/))-->
 <!-- Contribution Graph --> 
-<!-- merko -->
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mingguriguri&theme=merko&bg_color=ffffffff&color=0a0f0b&line=abd200&point=abd200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mingguriguri&theme=merko&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
