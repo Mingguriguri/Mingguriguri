@@ -21,8 +21,8 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mingguriguri&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Mingguriguri"
-  width="1000"
-  height="400"
+  width="800"
+  height="300"
 />
 </a>
 
