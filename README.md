@@ -6,7 +6,7 @@
 
 ## 👋  About Me 
 
-안녕하세요! 🙌🏻 백엔드 개발자를 꿈꾸며 꾸준히 성장 중인 김민정입니다.
+안녕하세요 🙌🏻 백엔드 개발자를 꿈꾸며 꾸준히 성장 중인 김민정입니다.
 > `#기록하기` `#배우기` `#가독성_ 높이기` `#의견_나누기`
 
 <!--
@@ -50,7 +50,7 @@
 <!-- 스킬 아이콘 --> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,java,spring,vscode,eclipse,aws,mysql,redis,sqlite,figma,notion,docker,git,flutter&theme=light&perline=8">
+    <img src="https://skillicons.dev/icons?i=py,django,java,spring,vscode,eclipse,aws,mysql,redis,sqlite,figma,notion,docker,git&theme=light&perline=8">
   </a>
 </p>
  
