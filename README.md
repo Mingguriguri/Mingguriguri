@@ -1,12 +1,6 @@
-<!-- <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=4000&pause=1000&color=F7A743&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Always+learning+new+things;Let's+build+amazing+projects!;Follow+me+for+more!" alt="Typing SVG" />
-  </a>
-</div> -->
-
 ## 👋  About Me 
 
-안녕하세요 🙌🏻 백엔드 개발자를 꿈꾸며 꾸준히 성장 중인 김민정입니다.
+안녕하세요 🙌🏻 개발자를 꿈꾸며 꾸준히 성장 중인 김민정입니다.
 > `#기록하기` `#배우기` `#가독성_ 높이기` `#의견_나누기`
 
 <!--
