@@ -45,7 +45,7 @@
 <!-- 스킬 아이콘 --> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,java,spring,vscode,eclipse,aws,mysql,redis,sqlite,figma,notion,docker,git&theme=light&perline=8">
+    <img src="https://skillicons.dev/icons?i=py,django,java,spring,vscode,eclipse,aws,mysql,redis,sqlite,figma,notion,docker,git&perline=20">
   </a>
 </p>
  
