@@ -22,6 +22,7 @@
 
 
 ## 💻 Projects
+  
 - **Golbang** (2024.03 ~ 진행 중):
   - 골프 모임 생성, 일정 공유, 게임 기록 관리 서비스.
   - Django 기반 백엔드 개발 및 JWT 인증 시스템
@@ -91,10 +92,9 @@
   />
 </a>
   
-  
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mingguriguri&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/Mingguriguri?pet-id=671282203269021010"
+    src="https://render.gitanimals.org/lines/Mingguriguri?pet-id=696657084644843102"
     width="250"
     height="120"
   />
