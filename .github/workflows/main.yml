@@ -1,40 +1,42 @@
-# # This workflow will install Python dependencies, run tests and lint with a single version of Python
-# # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+name: Update README with Latest Blog Post
+on:
+  workflow_dispatch: # 테스트를 위한 수동 실행
 
-# name: Python application
+jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      
+      - name: Install dependencies # 필요한 패키지(curl, jq, libxml2-utils)를 설치
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl jq libxml2-utils
 
-# on:
-#   push:
-#     branches: [ "main" ]
-#   pull_request:
-#     branches: [ "main" ]
-#   schedule:
-#       - cron: "0 0 */1 * *"
+      - name: Extract latest blog post
+        run: |
+          RSS_FEED="https://minsllogg.tistory.com//rss"
+          XML_DATA=$(curl -s $RSS_FEED) # 피드 데이터 다운로드, 실패시 에러 메세지 출력
+          if [[ $? -ne 0 ]]; then
+            echo "Failed to download RSS feed"
+            exit 1
+          fi
 
-# jobs:
-#   build:
+          for ((i=1; i<=5; i++)); do # i번째 item에서 게시물의 제목과 링크 추출
+            TITLE=$(echo "$XML_DATA" | xmllint --xpath "string(/rss/channel/item[$i]/title)" - 2>/dev/null || echo "No title")
+            LINK=$(echo "$XML_DATA" | xmllint --xpath "string(/rss/channel/item[$i]/link)" - 2>/dev/null || echo "No link")
+            echo "- [$TITLE]($LINK)" >> latest-post.md
+          done
 
-#     runs-on: ubuntu-latest
+          cat README.md latest-post.md > new-README.md # 기존의 readme와 새로 작성한 readme 결합
+          mv new-README.md README.md
 
-#     steps:
-#     - uses: actions/checkout@v3
-#     - name: Set up Python 3.10
-#       uses: actions/setup-python@v3
-#       with:
-#         python-version: "3.10"
-#     - name: Install dependencies
-#       run: |
-#         python -m pip install --upgrade pip
-#         pip install feedparser
-#     - name: Run Update Python Script
-#       run: |
-#         python main.py
-#     - name: Update README.md file
-#       run: | 
-#         git pull
-#         git add .
-#         git diff
-#         git config --local user.email "rlaalswjd-@naver.com"
-#         git config --local user.name "Mingguriguri"
-#         git commit -m "Updating Blog Posts"
-#         git push
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'Mingguriguri'
+          git config --global user.email '${{ secrets.USER_EMAIL }}"
+          git add README.md
+          git commit -m "docs: Update README with latest blog post"
+          git push origin main
