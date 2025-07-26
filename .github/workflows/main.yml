@@ -20,23 +20,32 @@ jobs:
       - name: Extract latest blog post
         run: |
           RSS_FEED="https://minsllogg.tistory.com/rss"
-          XML_DATA=$(curl -s $RSS_FEED)
+          XML_DATA=$(curl -s "$RSS_FEED")
           if [[ $? -ne 0 ]]; then
             echo "Failed to download RSS feed"
             exit 1
           fi
-          
+
           echo "<!-- BLOG-POST-LIST:START -->" > latest-post.md
-          
+
           for ((i=1; i<=10; i++)); do
             TITLE=$(echo "$XML_DATA" | xmllint --xpath "string(/rss/channel/item[$i]/title)" - 2>/dev/null || echo "No title")
             LINK=$(echo "$XML_DATA" | xmllint --xpath "string(/rss/channel/item[$i]/link)" - 2>/dev/null || echo "No link")
-            echo "- [$TITLE]($LINK)" >> latest-post.md
+            PUBDATE_RAW=$(echo "$XML_DATA" | xmllint --xpath "string(/rss/channel/item[$i]/pubDate)" - 2>/dev/null || echo "")
+            
+            # pubDate: "Fri, 26 Jul 2025 06:15:00 +0900"
+            if [ -n "$PUBDATE_RAW" ]; then
+              DATE_FORMATTED=$(date -d "$PUBDATE_RAW" "+%Y-%m-%d %H:%M" 2>/dev/null || echo "Unknown date")
+            else
+              DATE_FORMATTED="Unknown date"
+            fi
+
+            echo "- [$TITLE]($LINK) ($DATE_FORMATTED") >> latest-post.md
           done
 
           CURRENT_DATE=$(TZ='Asia/Seoul' date "+%Y-%m-%d %H:%M:%S")
           echo "" >> latest-post.md
-
+          echo "Last updated: $CURRENT_DATE KST" >> latest-post.md
           echo "<!-- BLOG-POST-LIST:END -->" >> latest-post.md
 
           sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/ {
