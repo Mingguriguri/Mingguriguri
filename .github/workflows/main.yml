@@ -1,6 +1,8 @@
 name: Update README with Latest Blog Post
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 18 * * *'  # 매일 KST 새벽 3시 자동 실행
 
 jobs:
   update-readme:
@@ -34,7 +36,6 @@ jobs:
 
           CURRENT_DATE=$(TZ='Asia/Seoul' date "+%Y-%m-%d %H:%M:%S")
           echo "" >> latest-post.md
-          echo "Last updated: $CURRENT_DATE KST" >> latest-post.md
 
           echo "<!-- BLOG-POST-LIST:END -->" >> latest-post.md
 
