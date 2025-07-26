@@ -126,5 +126,6 @@
 <!-- 뱃지 사이트 : https://badgesgenerator.com/ -->
 <div align=right>
 <a href="https://minsllogg.tistory.com/"><img src="https://img.shields.io/badge/BLOG-click!-White?labelColor=CDC1FF&style=social&logo=Notion&logoColor=black&link=https://minjeong.oopy.io/" alt="BLOG" /></a>
+
 <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/"><img src="https://img.shields.io/badge/Linked%20In-click!-White?labelColor=CDC1FF&style=social&logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/" alt="Linked In" /></a>
  </div>
