@@ -2,11 +2,7 @@
 
 안녕하세요 🙌🏻 개발자를 꿈꾸며 꾸준히 성장 중인 김민정입니다.
 > `#기록하기` `#배우기` `#가독성_ 높이기` `#의견_나누기`
-> <a href="https://minsllogg.tistory.com/"><img src="https://img.shields.io/badge/BLOG-click!-White?labelColor=CDC1FF&style=social&logo=Notion&logoColor=black&link=https://minjeong.oopy.io/" alt="BLOG" /></a>
-> <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/"><img src="https://img.shields.io/badge/Linked%20In-click!-White?labelColor=CDC1FF&style=social&logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/" alt="Linked In" /></a>
 
-<!-- 뱃지 사이트 : https://badgesgenerator.com/ -->
-	
 <!--
 ```
 💻 새로운 기술을 배우는 것을 즐기며, 이를 블로그와 깃허브에 기록으로 남기는 습관을 가지고 있습니다.
@@ -126,4 +122,9 @@
     height="120"
   />
 </a>
-  
+
+<!-- 뱃지 사이트 : https://badgesgenerator.com/ -->
+<div align=right>
+<a href="https://minsllogg.tistory.com/"><img src="https://img.shields.io/badge/BLOG-click!-White?labelColor=CDC1FF&style=social&logo=Notion&logoColor=black&link=https://minjeong.oopy.io/" alt="BLOG" /></a>
+<a href="https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/"><img src="https://img.shields.io/badge/Linked%20In-click!-White?labelColor=CDC1FF&style=social&logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EA%B9%80-11b157299/" alt="Linked In" /></a>
+ </div>
