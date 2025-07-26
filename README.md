@@ -91,6 +91,11 @@
 - [[hELLO 스킨 커스텀]  홈 피드 카드형 UX 커스텀하기](https://minsllogg.tistory.com/entry/hELLO-%EC%8A%A4%ED%82%A8-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%99%88-%ED%94%BC%EB%93%9C-%EC%B9%B4%EB%93%9C%ED%98%95-UX-%EC%BB%A4%EC%8A%A4%ED%85%80%ED%95%98%EA%B8%B0)
 - [[Database] SQL 명령어 정리: DDL, DML, DCL, TCL 완전 정복](https://minsllogg.tistory.com/entry/Database-SQL-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-DDL-DML-DCL-TCL-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5)
 - [[Database] 역정규화 (역정규화가 필요한 상황, 고려해야 할 상황)](https://minsllogg.tistory.com/entry/Database-%EC%97%AD%EC%A0%95%EA%B7%9C%ED%99%94-%EC%97%AD%EC%A0%95%EA%B7%9C%ED%99%94%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%83%81%ED%99%A9-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%83%81%ED%99%A9)
+- [[hELLO 스킨] 블로그 메뉴를 아이콘으로 바꾸기](https://minsllogg.tistory.com/entry/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A9%94%EB%89%B4%EB%A5%BC-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)
+- [블로그 관리 아카이브](https://minsllogg.tistory.com/entry/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C)
+- [[프로그래머스/PGS] 타겟 넘버 (파이썬/Python, 자바/Java)](https://minsllogg.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4PGS-%ED%83%80%EA%B2%9F-%EB%84%98%EB%B2%84-%ED%8C%8C%EC%9D%B4%EC%8D%ACPython-%EC%9E%90%EB%B0%94Java)
+- [[프로그래머스] 점프와 순간이동 (파이썬/Python)](https://minsllogg.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A0%90%ED%94%84%EC%99%80-%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99-%ED%8C%8C%EC%9D%B4%EC%8D%ACPython)
+- [[JAVA] Java Comparator 완전 정복: compare 메서드의 동작 원리](https://minsllogg.tistory.com/entry/JAVA-Java-Comparator-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-compare-%EB%A9%94%EC%84%9C%EB%93%9C%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
 
 <!-- BLOG-POST-LIST:END -->
 
