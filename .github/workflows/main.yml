@@ -19,7 +19,7 @@ jobs:
 
       - name: Extract latest blog post
         run: |
-          RSS_FEED="https://minsllogg.tistory.com//rss"
+          RSS_FEED="https://minsllogg.tistory.com/rss"
           XML_DATA=$(curl -s $RSS_FEED)
           if [[ $? -ne 0 ]]; then
             echo "Failed to download RSS feed"
