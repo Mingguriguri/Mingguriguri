@@ -33,19 +33,15 @@ jobs:
             LINK=$(echo "$XML_DATA" | xmllint --xpath "string(/rss/channel/item[$i]/link)" - 2>/dev/null || echo "No link")
             PUBDATE_RAW=$(echo "$XML_DATA" | xmllint --xpath "string(/rss/channel/item[$i]/pubDate)" - 2>/dev/null || echo "")
             
-            # pubDate: "Fri, 26 Jul 2025 06:15:00 +0900"
             if [ -n "$PUBDATE_RAW" ]; then
               DATE_FORMATTED=$(date -d "$PUBDATE_RAW" "+%Y-%m-%d %H:%M" 2>/dev/null || echo "Unknown date")
             else
               DATE_FORMATTED="Unknown date"
             fi
 
-            echo "- [$TITLE]($LINK) ($DATE_FORMATTED)" >> latest-post.md
+            echo "- ✨ **[$TITLE]($LINK)** · \`$DATE_FORMATTED\`" >> latest-post.md
           done
 
-          CURRENT_DATE=$(TZ='Asia/Seoul' date "+%Y-%m-%d %H:%M:%S")
-          echo "" >> latest-post.md
-          echo "Last updated: $CURRENT_DATE KST" >> latest-post.md
           echo "<!-- BLOG-POST-LIST:END -->" >> latest-post.md
 
           sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/ {
