@@ -40,7 +40,7 @@ jobs:
               DATE_FORMATTED="Unknown date"
             fi
 
-            echo "- [$TITLE]($LINK) ($DATE_FORMATTED") >> latest-post.md
+            echo "- [$TITLE]($LINK) ($DATE_FORMATTED)" >> latest-post.md
           done
 
           CURRENT_DATE=$(TZ='Asia/Seoul' date "+%Y-%m-%d %H:%M:%S")
