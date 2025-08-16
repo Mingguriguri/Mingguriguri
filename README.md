@@ -82,16 +82,16 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- ✨ **[[백준] #28066. 타노스는 요세푸스가 밉다 (파이썬/Python)](https://minsllogg.tistory.com/entry/%EB%B0%B1%EC%A4%80-28066-%ED%83%80%EB%85%B8%EC%8A%A4%EB%8A%94-%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%EA%B0%80-%EB%B0%89%EB%8B%A4-%ED%8C%8C%EC%9D%B4%EC%8D%ACPython)** · `2025-08-16 09:08`
+- ✨ **[[백준] #1158. 요세푸스 문제 (파이썬/Python)](https://minsllogg.tistory.com/entry/%EB%B0%B1%EC%A4%80-1158-%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4-%EB%AC%B8%EC%A0%9C-%ED%8C%8C%EC%9D%B4%EC%8D%ACPython)** · `2025-08-16 07:59`
+- ✨ **[[백준] #2644. 촌수계산 (DFS/BFS) (파이썬/Python)](https://minsllogg.tistory.com/entry/%EB%B0%B1%EC%A4%80-2644-%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0-DFSBFS-%ED%8C%8C%EC%9D%B4%EC%8D%ACPython)** · `2025-08-16 07:30`
+- ✨ **[[백준] #5014. 스타트링크 (파이썬/Python)](https://minsllogg.tistory.com/entry/%EB%B0%B1%EC%A4%80-5014-%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC-%ED%8C%8C%EC%9D%B4%EC%8D%ACPython)** · `2025-08-16 07:21`
 - ✨ **[[백준] #2468. 안전 영역 (파이썬/Python)](https://minsllogg.tistory.com/entry/%EB%B0%B1%EC%A4%80-2468-%EC%95%88%EC%A0%84-%EC%98%81%EC%97%AD-%ED%8C%8C%EC%9D%B4%EC%8D%ACPython)** · `2025-08-03 06:25`
 - ✨ **[[프로그래머스] [2021 카카오 채용연계형 인턴십] 거리두기 확인하기 (파이썬/Python)](https://minsllogg.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-2021-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-%ED%8C%8C%EC%9D%B4%EC%8D%ACPython)** · `2025-07-26 15:03`
 - ✨ **[[백준] #16987. 계란으로 계란치기(파이썬/Python)](https://minsllogg.tistory.com/entry/%EB%B0%B1%EC%A4%80-16987-%EA%B3%84%EB%9E%80%EC%9C%BC%EB%A1%9C-%EA%B3%84%EB%9E%80%EC%B9%98%EA%B8%B0%ED%8C%8C%EC%9D%B4%EC%8D%ACPython)** · `2025-07-26 14:03`
 - ✨ **[[프로그래머스] 게임 맵 최단거리 (파이썬/Python) (자바/Java)](https://minsllogg.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B2%8C%EC%9E%84-%EB%A7%B5-%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC-%ED%8C%8C%EC%9D%B4%EC%8D%ACPython-%EC%9E%90%EB%B0%94Java)** · `2025-07-25 11:11`
 - ✨ **[[백준] #15683. 감시 (파이썬/Python)](https://minsllogg.tistory.com/entry/%EB%B0%B1%EC%A4%80-15683-%EA%B0%90%EC%8B%9C-%ED%8C%8C%EC%9D%B4%EC%8D%ACPython)** · `2025-07-25 09:14`
 - ✨ **[[hELLO 스킨 커스텀]  홈 피드 카드형 UX 커스텀하기](https://minsllogg.tistory.com/entry/hELLO-%EC%8A%A4%ED%82%A8-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%99%88-%ED%94%BC%EB%93%9C-%EC%B9%B4%EB%93%9C%ED%98%95-UX-%EC%BB%A4%EC%8A%A4%ED%85%80%ED%95%98%EA%B8%B0)** · `2025-07-25 09:05`
-- ✨ **[[Database] SQL 명령어 정리: DDL, DML, DCL, TCL 완전 정복](https://minsllogg.tistory.com/entry/Database-SQL-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-DDL-DML-DCL-TCL-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5)** · `2025-07-21 16:12`
-- ✨ **[[Database] 역정규화 (역정규화가 필요한 상황, 고려해야 할 상황)](https://minsllogg.tistory.com/entry/Database-%EC%97%AD%EC%A0%95%EA%B7%9C%ED%99%94-%EC%97%AD%EC%A0%95%EA%B7%9C%ED%99%94%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%83%81%ED%99%A9-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%83%81%ED%99%A9)** · `2025-07-21 15:30`
-- ✨ **[[hELLO 스킨] 블로그 메뉴를 아이콘으로 바꾸기](https://minsllogg.tistory.com/entry/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A9%94%EB%89%B4%EB%A5%BC-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0)** · `2025-07-21 07:17`
-- ✨ **[블로그 관리 아카이브](https://minsllogg.tistory.com/entry/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C)** · `2025-07-21 05:26`
 <!-- BLOG-POST-LIST:END -->
 
 
